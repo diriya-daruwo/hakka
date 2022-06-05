@@ -1,0 +1,8 @@
+site_name: "hakka"
+site_description: "hakka service"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
