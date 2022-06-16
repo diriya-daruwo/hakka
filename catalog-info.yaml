@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: diriya-daruwo/hakka
     backstage.io/techdocs-ref: dir:.
+    backstage.io/kubernetes-id: hakka
 spec:
   type: service
   lifecycle: experimental
